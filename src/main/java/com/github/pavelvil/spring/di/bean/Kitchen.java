@@ -1,6 +1,6 @@
 package com.github.pavelvil.spring.di.bean;
 
-import org.springframework.core.annotation.Order;
+
 import org.springframework.stereotype.Component;
 
 @Component

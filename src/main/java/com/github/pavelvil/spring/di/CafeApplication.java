@@ -1,12 +1,12 @@
 package com.github.pavelvil.spring.di;
 
-import com.github.pavelvil.spring.di.bean.Customer;
-
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-import java.util.Currency;
+import com.github.pavelvil.spring.di.bean.Customer;
+
+
 
 @Configuration
 @ComponentScan("com.github.pavelvil.spring.di")
